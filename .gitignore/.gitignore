@@ -11,3 +11,5 @@ obj/
 
 # NuGet packages
 packages/
+
+*.lock

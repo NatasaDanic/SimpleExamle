@@ -50,13 +50,24 @@ namespace NewIkea.Framework
         {
             return _driver.FindElement(By.Id("rooms-drawer")).Displayed;
         }
-
-        // not sure should it be one or tree methods
-        public void ClickOnSearchButton()
+        
+        public MainMenu ClickOnSearchTextBox()
         {
             _driver.FindElement(By.Id("search")).Click();
-            _driver.FindElement(By.Id("search")).SendKeys("brown");
-            _driver.FindElement(By.XPath("//input[@alt='Search']")).Click();
+            return this;
         }
+
+        public MainMenu PopulateSearchBox()
+        {
+            _driver.FindElement(By.Id("search")).SendKeys("brown");
+            return this;
+        }
+
+        public MainMenu ClickSearchButton()
+        {
+            _driver.FindElement(By.XPath("//input[@alt='Search']")).Click();
+            return this;
+        }
+
     }
 }

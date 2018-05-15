@@ -17,3 +17,22 @@ C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea\obj\Debug\NewIkea.
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea\obj\Debug\NewIkea.Tests.csproj.CopyComplete
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea\obj\Debug\NewIkea.Tests.dll
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea\obj\Debug\NewIkea.Tests.pdb
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NUnit3.TestAdapter.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NUnit3.TestAdapter.pdb
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\nunit.engine.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\nunit.engine.api.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\Mono.Cecil.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NewIkea.Tests.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NewIkea.Tests.pdb
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NewIkea.Framework.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\nunit.framework.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\WebDriver.dll
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\NewIkea.Framework.pdb
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\nunit.framework.pdb
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\nunit.framework.xml
+D:\natasa\projects\SimpleExamle\NewIkea\bin\Debug\WebDriver.xml
+D:\natasa\projects\SimpleExamle\NewIkea\obj\Debug\NewIkea.Tests.csprojResolveAssemblyReference.cache
+D:\natasa\projects\SimpleExamle\NewIkea\obj\Debug\NewIkea.Tests.csproj.CoreCompileInputs.cache
+D:\natasa\projects\SimpleExamle\NewIkea\obj\Debug\NewIkea.Tests.csproj.CopyComplete
+D:\natasa\projects\SimpleExamle\NewIkea\obj\Debug\NewIkea.Tests.dll
+D:\natasa\projects\SimpleExamle\NewIkea\obj\Debug\NewIkea.Tests.pdb

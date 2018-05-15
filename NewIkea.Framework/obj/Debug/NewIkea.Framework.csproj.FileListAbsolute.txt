@@ -9,3 +9,14 @@ C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea.Framework\obj\Debu
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea.Framework\obj\Debug\NewIkea.Framework.csproj.CopyComplete
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea.Framework\obj\Debug\NewIkea.Framework.dll
 C:\Users\Mirojica\Desktop\natasa - job search\NewIkea\NewIkea.Framework\obj\Debug\NewIkea.Framework.pdb
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\NewIkea.Framework.dll
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\NewIkea.Framework.pdb
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\WebDriver.dll
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\WebDriver.Support.dll
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\WebDriver.xml
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\bin\Debug\WebDriver.Support.xml
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\obj\Debug\NewIkea.Framework.csprojResolveAssemblyReference.cache
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\obj\Debug\NewIkea.Framework.csproj.CoreCompileInputs.cache
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\obj\Debug\NewIkea.Framework.csproj.CopyComplete
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\obj\Debug\NewIkea.Framework.dll
+D:\natasa\projects\SimpleExamle\NewIkea.Framework\obj\Debug\NewIkea.Framework.pdb

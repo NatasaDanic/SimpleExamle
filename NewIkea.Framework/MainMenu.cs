@@ -57,9 +57,9 @@ namespace NewIkea.Framework
             return this;
         }
 
-        public MainMenu PopulateSearchBox()
+        public MainMenu PopulateSearchBox(string criteria)
         {
-            _driver.FindElement(By.Id("search")).SendKeys("brown");
+            _driver.FindElement(By.Id("search")).SendKeys(criteria);
             return this;
         }
 

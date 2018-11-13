@@ -56,7 +56,7 @@ namespace NewIkea.Tests
         [Test]
         public void SearchButton_ShouldRedirectToSearchPage()
         {
-            Pages.MainMenu.ClickOnSearchTextBox().PopulateSearchBox().ClickSearchButton();
+            Pages.MainMenu.ClickOnSearchTextBox().PopulateSearchBox("brown").ClickSearchButton();
 
             Assert.IsTrue(Pages.CurrentPageTitle == "Search result - IKEA");
         }
